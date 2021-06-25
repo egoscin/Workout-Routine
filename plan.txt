@@ -1,0 +1,9 @@
+
+Benchpress	315	5	6	Monday
+Squats	405	5	6	Tuesday
+MilitaryPress	200	5	6	Wednesday
+Deadlift	500	5	6	Friday
+Rows	5	5	6	Friday
+Dips	0	5	6	Thursday
+Closegrip Bench	305	5	6	Thursday
+Incline Press	225	5	4	Monday
